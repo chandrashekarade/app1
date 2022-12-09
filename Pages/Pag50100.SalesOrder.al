@@ -1,7 +1,7 @@
 page 50100 "Sales OrderDI"
 {
     ApplicationArea = All;
-    Caption = 'Sales Order DI';
+    Caption = 'Sales Order-DI';
     PageType = Card;
     SourceTable = "Sales Header";
 
